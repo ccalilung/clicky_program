@@ -1,0 +1,64 @@
+[
+  {
+    "id": 0,
+    "name": "Amsterdam",
+    "image":
+      "/images/amsterdam.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Berlin",
+    "image":
+      "/images/berlin.jpg"
+  },{
+    "id": 2,
+    "name": "Dallas",
+    "image":
+      "/images/dallas.jpg"
+  },{
+    "id": 3,
+    "name": "Dubai",
+    "image":
+      "/images/dubai.jpg"
+  },{
+    "id": 4,
+    "name": "Los Angeles",
+    "image":
+      "/images/la.jpg"
+  },{
+    "id": 5,
+    "name": "London",
+    "image":
+      "/images/london.jpg"
+  },{
+    "id": 6,
+    "name": "New York",
+    "image":
+      "/images/newyork.jpg"
+  },{
+    "id": 7,
+    "name": "Paris",
+    "image":
+      "/images/paris.jpg"
+  },{
+    "id": 8,
+    "name": "Seattle",
+    "image":
+      "/images/seattle.jpg"
+  },{
+    "id": 9,
+    "name": "San Francisco",
+    "image":
+      "/images/sf.jpg"
+  },{
+    "id": 10,
+    "name": "Singapore",
+    "image":
+      "/images/singapore.jpg"
+  },{
+    "id": 11,
+    "name": "Tokyo",
+    "image":
+      "/images/tokyo.jpg"
+  }
+]
