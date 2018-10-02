@@ -8,13 +8,7 @@ class App extends Component {
   render() {
     return (
       <div>
-      
-    
       <Cities />
-          
-          
-        
-
       </div>
     );
   } 
